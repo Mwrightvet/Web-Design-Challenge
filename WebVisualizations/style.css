@@ -1,6 +1,4 @@
 
-
-
 .container-fluid .navbar-brand{
   color: #ededed;
   height: 50px;
@@ -139,4 +137,9 @@ margin-bottom: 30px;
   visibility: hidden;
 }
 
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
 }
